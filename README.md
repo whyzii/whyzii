@@ -1,6 +1,6 @@
 # Hi, I'm Abbas 👋
 
-Aspiring **iOS Developer** at the start of my journey — building apps with **Swift** and **SwiftUI**, and learning something new every day.
+Aspiring **iOS Developer** at the start of my journey building apps with **Swift** and **SwiftUI**, and learning something new every day.
 
 - 🔭 Currently building iOS apps with **Swift / SwiftUI**
 - 🌱 Early in my developer journey and leveling up with every project
